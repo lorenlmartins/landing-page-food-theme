@@ -1,20 +1,10 @@
 # Landing Page Food Theme
 
-A **responsive and animated landing page** for a food-themed project, built with **HTML**, **CSS**, and **JavaScript (jQuery)**.
----
+A responsive and animated landing page for a food-themed project, built with HTML, CSS, and JavaScript (jQuery).
 
 ## 🌐 Live Demo
 
 Explore the live version here: [Landing Page Food Theme](https://landing-page-food-theme.vercel.app/)
-
----
-
-## 🛠️ Features
-
-- **Responsive Design**: Built with **Flexbox**, ensuring the layout adjusts perfectly for all devices, from desktops to smartphones.  
-- **Scroll Animations**: Integrated **Scroll Reveal** library for stunning scrolling effects that bring the page to life.  
-- **Dynamic Tab Navigation**: A smart **scroll-based menu** that highlights the current section and makes navigation intuitive.  
-- **Clean and Modern UI**: A minimalist yet attractive design for a professional look.  
 
 ---
 
